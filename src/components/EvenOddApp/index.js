@@ -14,7 +14,7 @@ class EvenOddApp extends Component {
       isClicked: true,
       num: randomNumber,
     })
-    console.log(randomNumber)
+    // console.log(randomNumber)
   }
 
   render() {
